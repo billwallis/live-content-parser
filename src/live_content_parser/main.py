@@ -3,4 +3,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    main()  # pragma: no cover
+    raise SystemExit(main())  # pragma: no cover
