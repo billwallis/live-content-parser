@@ -12,7 +12,7 @@ pluggy==1.6.0
 poethepoet==0.42.1
 pre_commit==4.5.1
 Pygments==2.20.0
-pytest==9.0.2
+pytest==9.0.3
 pytest-cov==7.1.0
 python-discovery==1.2.0
 PyYAML==6.0.3
